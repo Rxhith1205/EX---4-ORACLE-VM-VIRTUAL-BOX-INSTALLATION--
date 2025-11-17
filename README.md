@@ -1,6 +1,6 @@
 # EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-### Name : ADITHYA V
-### Rg No: 212223110001
+### Name : ROHITH HARIHARAN M
+### Rg No: 212223220087
 
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
